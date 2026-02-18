@@ -1,5 +1,6 @@
 # Web Search AI Agent
-This is a full-stack application with a Python FastAPI backend and React frontend that can search the web and provide intelligent answers to your questions.
+This is a full-stack application with a Python FastAPI backend and React frontend that can search the web and provide intelligent answers to your questions.  
+You can find this project use this link: https://web-search-ai-agent-zuzl.vercel.app/.  
 The agent uses an LLM to decide when web search is needed, extracts search queries, fetches real-time results via BrightData's SERP API, and synthesizes comprehensive answers using the RAG (Retrieval-Augmented Generation) pattern.
 
 The application includes a user-controlled "Web Search" checkbox that lets you toggle between:
